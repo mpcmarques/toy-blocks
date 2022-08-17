@@ -2,20 +2,9 @@
 
 ## Installation
 
-1. `git clone repo`
-2. `cd toy-blocks-client-react`
-3. `nvm use`
-4. `npm i`
-5. `npm start`
-6. `npm test`
-
-## Introduction
-
-Here are the instructions for the React Coding Challenge. Please note that you have 5 days from the time of this email to complete and submit the challenge. Please ensure that you capture a screen recording with audio as you complete the challenge using programs such as Loom or other screen recording software. The recording should be at least full length of the challenge (1 hour and 15 mins). The recording must be on a streaming site - we cannot download large files. The video must include audio of you explaining what you are doing. We will review the recording to grade the challenge.
-
-Here are the links you will need for the challenge:
-[Figma Link](https://www.figma.com/proto/CCuZ0sjGQ2CQtKvuENHaF8/React-Hiring-Test?node-id=11%3A26922&scaling=min-zoom)
-(You can use "Open in editor" to see the CSS values)
+1. `npm i`
+2. `npm start`
+3. `npm test`
 
 ## Instructions
 
@@ -38,5 +27,3 @@ ___
 - You have 75 minutes to complete the challenge from the time you begin.
 - Tests are a mandatory part of the challenge, so please include them. Please add full test coverage to account for the features of the challenge, and make sure the full test suite passes.
 - At the end of the challenge please verbally summarize and explain everything you have done, and show your UI work if applicable.
-- Once you’ve completed the challenge, please email me a link to the video.
-- If you are having difficulties with the challenge, please email me for assistance.
